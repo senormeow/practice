@@ -43,7 +43,7 @@ class Person:
 
 def main():
     
-    num_people = 1063
+    num_people = 41
 
     first = Person(0)
     prev = first
